@@ -1,4 +1,5 @@
 #Whisper_OpenAI
+
 English subtitle generator by using latest Whisper ASR from Open AI and Then deployment of the system on Huggingface
 
 Deployed the system at Hugging face. Here is it's link: https://huggingface.co/spaces/Ranjit/Subtitle_Generator_by_Whisper_OpenAI
